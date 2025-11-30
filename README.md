@@ -28,8 +28,8 @@ UniversityRacerX - simple racing game for educational purpose of working with co
 
 # Dependencies
 
-* [SDL 2.31](https://github.com/libsdl-org/SDL/tree/SDL2)
-* [Bullet Physics 2.79 (rev2440)](https://code.google.com/archive/p/bullet/downloads)
+* [SDL 2.32](https://github.com/libsdl-org/SDL/releases/tag/release-2.32.0)
+* [Bullet Physics 2.79 (rev2440)](https://code.google.com/archive/p/bullet/downloads) - Bullet 2.79 Physics SDK (svn r2440) [bullet-2.79-rev2440.zip]
 * [glm 0.9.3.4](https://github.com/g-truc/glm/releases/tag/0.9.3.4)
 * [glew 2.2.0](https://github.com/nigels-com/glew/releases/tag/glew-2.2.0)
 

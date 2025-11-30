@@ -41,12 +41,12 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>C:\Users\misha\Downloads\bullet-2.79-rev2440\bullet-2.79\src;C:\Users\misha\Downloads\glew-2.2.0-win32\glew-2.2.0\include;C:\Users\misha\Downloads\glm-0.9.3.4;C:\Users\misha\Documents\GitHub\SDL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\misha\Downloads\bullet-2.79-rev2440\bullet-2.79\src;C:\Users\misha\Downloads\glew-2.2.0-win32\glew-2.2.0\include;C:\Users\misha\Downloads\glm-0.9.3.4;C:\Users\misha\Downloads\SDL2-devel-2.32.0-VC\SDL2-2.32.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\misha\Downloads\bullet-2.79-rev2440\bullet-2.79\lib;C:\Users\misha\Downloads\glew-2.2.0-win32\glew-2.2.0\lib\Release\Win32;C:\Users\misha\Documents\GitHub\SDL\VisualC\Win32\Debug;C:\Users\misha\Documents\GitHub\SDL\VisualC\SDLmain\Win32\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>opengl32.lib;BulletCollision_debug.lib;BulletDynamics_debug.lib;LinearMath_debug.lib;SDL2.lib;SDL2main.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\misha\Downloads\bullet-2.79-rev2440\bullet-2.79\lib;C:\Users\misha\Downloads\glew-2.2.0-win32\glew-2.2.0\lib\Release\Win32;C:\Users\misha\Downloads\SDL2-devel-2.32.0-VC\SDL2-2.32.0\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opengl32.lib;BulletCollision_debug.lib;BulletDynamics_debug.lib;LinearMath_debug.lib;SDL2main.lib;SDL2.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <SubSystem>Console</SubSystem>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
